@@ -382,7 +382,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
                 rel="noreferrer"
                 className="text-blue-500 hover:underline"
               >
-                openai.com
+                VX：instant
               </a>
             </div>
           </div>
