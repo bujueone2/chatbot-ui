@@ -362,12 +362,10 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
           </div>
           <div className="text-center text-gray-500 dark:text-gray-400">
             <div className="mb-2">
-              Chatbot UI allows you to plug in your API key to use this UI with
-              their API.
+              
             </div>
             <div className="mb-2">
-              It is <span className="italic">only</span> used to communicate
-              with their API.
+              
             </div>
             <div className="mb-2">
               {t(
