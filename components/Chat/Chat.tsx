@@ -355,9 +355,9 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
             欢迎使用你的私人AI助理
           </div>
           <div className="text-center text-lg text-black dark:text-white">
-            <div className="mb-8">{`Chatbot UI is an open source clone of OpenAI's ChatGPT UI.`}</div>
+            <div className="mb-8">{`点击左下角第四个输入key码，sk-整串输入`}</div>
             <div className="mb-2 font-bold">
-              Important: Chatbot UI is 100% unaffiliated with OpenAI.
+              
             </div>
           </div>
           <div className="text-center text-gray-500 dark:text-gray-400">
